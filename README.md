@@ -42,9 +42,9 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 
     ```bash
     git remote add upstream https://github.com/Python-World/python-mini-projects.git
-    git fetch upstream
-    git pull upstream master
-    git push
+    git fetch upstream!
+    git pull upstream master!
+    git push!
     ```
     
     Alternatively, GitHub also provides syncing now - click "Fetch upstream" at the top of your repo below "Code" button.
